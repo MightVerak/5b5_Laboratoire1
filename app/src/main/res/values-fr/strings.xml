@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratoire1-Samuel Tremblay</string>
+    <string name="courriel">Votre courriel</string>
+    <string name="password">Votre mot de passe</string>
+    <string name="voirMot">Afficher votre mot de passe</string>
+    <string name="validerBouton">Valider mot de passe</string>
+    <string name="messageValide">Le mot de passe est valide</string>
+    <string name="messageInvalide">Le mot de passe est invalide</string>
+</resources>

@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">5b5_Laboratoire1</string>
+    <string name="app_name">Laboratoire1-Samuel Tremblay</string>
+    <string name="courriel">Your email</string>
+    <string name="password">Your password</string>
+    <string name="voirMot">See password</string>
+    <string name="validerBouton">Validate password</string>
+    <string name="messageValide">The password is valid</string>
+    <string name="messageInvalide">The password is invalid</string>
 </resources>
